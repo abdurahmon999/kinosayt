@@ -1,0 +1,136 @@
+[{
+    "name": "Interstellar",
+    "imdb": 8.7,
+    "date": "2014",
+    "sposter": "img/interstellar1.jpg",
+    "bposter": "img/interstellar1.jpg",
+    "genre": "Fantastika",
+    "type": "movie",
+    "url": "interstellar.html"
+}, {
+    "name": "Chegarasiz 4",
+    "imdb": 6.8,
+    "date": "2023",
+    "sposter": "img/uncharted4.jpg",
+    "bposter": "img/uncharted4.jpg",
+    "genre": "Ekshen",
+    "type": "movie",
+    "url": "money heist.html"
+}, {
+    "name": "Lyusi",
+    "imdb": 6.8,
+    "date": "2014",
+    "sposter": "img/lyusi.jpg",
+    "bposter": "img/lyusi.jpg",
+    "genre": "Ekshen",
+    "type": "movie",
+    "url": "jhon wick.html"
+}, {
+    "name": "Katta Aka",
+    "imdb": 8.9,
+    "date": "2018",
+    "sposter": "img/kattaAka.jpg",
+    "bposter": "img/kattaAka.jpg",
+    "genre": "Jang",
+    "type": "movie",
+    "url": "ant man.html"
+}, {
+    "name": "Ip Man 4",
+    "imdb": 7.8,
+    "date": "2020",
+    "sposter": "img/ipman4.jpg",
+    "bposter": "img/ipman4.jpg",
+    "genre": "Jang",
+    "type": "movie",
+    "url": "avengers.html"
+}, {
+    "name": "BamblBee",
+    "imdb": 6.7,
+    "date": "2018",
+    "sposter": "img/bumblbee2018.jpg",
+    "bposter": "img/bumblbee2018.jpg",
+    "genre": "Fantastika",
+    "type": "movie",
+    "url": "moon knight.html"
+}, {
+    "name": "Super 30",
+    "imdb": 7.6,
+    "date": "2019",
+    "sposter": "img/super30.jpg",
+    "bposter": "img/super30.jpg",
+    "genre": "Real Voqea",
+    "type": "movie",
+    "url": "kota factory.html"
+}, {
+    "name": "Ijtimoiy tarmoq",
+    "imdb": 7.7,
+    "date": "2010",
+    "sposter": "img/facebook.jpg",
+    "bposter": "img/facebook.jpg",
+    "genre": "Real Voqea",
+    "type": "movie",
+    "url": "collage romance.html"
+}, {
+    "name": "Forsaj 3",
+    "imdb": 6.9,
+    "date": "2006",
+    "sposter": "img/forsaj3.jpg",
+    "bposter": "img/forsaj3.jpg",
+    "genre": "Poyga",
+    "type": "movie",
+    "url": "thor love of thunder.html"
+}, {
+    "name": "Hayot pulti",
+    "imdb": 6.4,
+    "date": "2006",
+    "sposter": "img/hayotPulti.jpg",
+    "bposter": "img/haoytPulti.jpg",
+    "genre": "Komediya",
+    "type": "movie",
+    "url": "uncharted.html"
+}, {
+    "name": "Tetris",
+    "imdb": 7.1,
+    "date": "2023",
+    "sposter": "img/tetris.jpg",
+    "bposter": "img/tetris.jpg",
+    "genre": "Real Voqea",
+    "type": "movie",
+    "url": "eesho.html"
+}, {
+    "name": "Jonim Fido",
+    "imdb": 8.0,
+    "date": "2022",
+    "sposter": "img/jonimFido.jpg",
+    "bposter": "img/jonimFido.jpg",
+    "genre": "Action",
+    "type": "movie",
+    "url": "topgun.html"
+}, {
+    "name": "Mojaz Dunyo",
+    "imdb": 6.6,
+    "date": "2017",
+    "sposter": "img/mojazDunyo.jpg",
+    "bposter": "img/mojazDunyo.jpg",
+    "genre": "Fantastika",
+    "type": "movie",
+    "url": "jurassic world.html"
+}, {
+    "name": "Kalashnkov",
+    "imdb": 6.6,
+    "date": "2020",
+    "sposter": "img/kalashnikov.jpg",
+    "bposter": "img/kalashnikov.jpg",
+    "genre": "Real Voqea",
+    "type": "movie",
+    "url": "eternals.html"
+}, {
+    "name": "Hacker",
+    "imdb": 6.2,
+    "date": "2016",
+    "sposter": "img/hacker2016.jpg",
+    "bposter": "img/hacker2016.jpg",
+    "genre": "Kriminal",
+    "type": "movie",
+    "url": "spiderman.html"
+}]
